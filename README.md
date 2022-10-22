@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Canonball90
 - 👀 I’m interested in intrest
-- 🌱 I’m currently learning how to get bitches
+- 🌱 I’m currently learning how to commit mass murder
 - 💞️ I’m looking to collaborate on idek
-- 📫 How to reach me [...](https://xipe.ju.mp/)
+- 📫 How to reach me [Discord](https://discord.gg/DkxRCbxWkB)
 
 <!---
 Canonball90/Canonball90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
