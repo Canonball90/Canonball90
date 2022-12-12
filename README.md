@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Canonball90
-- 👀 I’m interested in intrest
-- 🌱 I’m currently learning how to commit mass murder
-- 💞️ I’m looking to collaborate on idek
-- 📫 How to reach me [Discord](https://discord.gg/DkxRCbxWkB)
 
-<!---
-Canonball90/Canonball90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**My Projects:**
+
+CueClient
+
+**Contact:**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/877135390669156402)](https://discord.com/users/877135390669156402)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canonball90&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/Canonball90/github-readme-stats)
